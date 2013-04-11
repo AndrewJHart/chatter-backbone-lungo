@@ -1,0 +1,1 @@
+var news_feed_data = {/*You raw news feed goes here*/}; 

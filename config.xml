@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.phonegap.chatterBackboneLungo"
+	version 	= "0.0.1">
+
+	<name>Chatter Backbone Lungo</name>
+
+	<description>
+		Chatter Backbone Lungo Mobile Demo.
+	</description>
+
+	<author href="http://solutionrock.com" email="rumdumdum@gmail.com">
+		Richard Ozols
+	</author>
+
+	<preference name="webviewbounce" value="false"/>
+
+	<feature name="http://plugins.phonegap.com/ChildBrowser/3.0.4" />
+
+</widget>
